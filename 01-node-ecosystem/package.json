@@ -1,0 +1,17 @@
+{
+  "name": "01-node-ecosystem",
+  "version": "1.0.0",
+  "description": "![cf](http://i.imgur.com/7v5ASc8.png) 01: Node Ecosystem =====================================",
+  "main": "functions.js",
+  "dependencies": {
+    "jest": "^24.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
