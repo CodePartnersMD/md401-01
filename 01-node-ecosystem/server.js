@@ -2,8 +2,10 @@
 
 const funcs = require('./functions')
 
-funcs.greeting()
+// funcs.greeting()
 
-console.log(funcs.add(2,4))
+// console.log(funcs.add(2,4))
+
+console.log(funcs())
 
 
